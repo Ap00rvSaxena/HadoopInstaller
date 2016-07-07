@@ -35,6 +35,10 @@ Hadoop Installer is an utility tool for installing Hadoop in a Linux based OS.It
 
 <li>8.Login to user to start services.</li>
 
+User can start and access Hadoop services either by using terminal/shell or by using custom graphical user interface which will located at the Desktop of the user after successful installation.
+
+The link to the custom GUI to access and control Hadoop service - https://github.com/Ap00rvSaxena/HadoopServices
+
 ### Prerequisites
 <li>System should have a stable version of a Java Eviorment to support Hadoop</li>
 <li>System should have well defined ip4 setting</li>
