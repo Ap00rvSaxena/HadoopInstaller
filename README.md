@@ -38,7 +38,11 @@ Hadoop Installer is an utility tool for installing Hadoop in a Linux based OS.It
 ### Prerequisites
 <li>System should have a stable version of a Java Eviorment to support Hadoop</li>
 <li>System should have well defined ip4 setting</li>
-<li>If having problem with localhost not found make an entry for localhost in /etc/hosts
+<li>If having problem with localhost make an entry for localhost in /etc/hosts
+
+```
+localhost:could not resolve hostname localhost
+```
 
 ## Buid with
 * Eclipse
